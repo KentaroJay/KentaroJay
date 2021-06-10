@@ -2,7 +2,7 @@
 - Todo app
   http://18.183.133.221/
 - Django app
-  http://52.199.173.128/hello/
+  http://52.199.173.128/sns/
 
 # introduce
 - 👋 Hi, I’m @KentaroJayTakahashi.
