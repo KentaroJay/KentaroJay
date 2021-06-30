@@ -2,10 +2,7 @@
 - Todo app
   http://18.183.133.221/
 - Django app
-  http://52.199.173.128/sns/
-  
- 
- Create User from http://52.199.173.128/sns/createuser before checking out above, Django app.
+  https://sns.app-todo-jay.work/sns/
 
 # introduce
 - 👋 Hi, I’m @KentaroJayTakahashi.
