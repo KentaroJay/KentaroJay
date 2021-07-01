@@ -1,6 +1,6 @@
 # Applications
 - Todo app
-  http://18.183.133.221/
+  link expired. I'll make it back soon.
 - Django app
   https://sns.app-todo-jay.work/sns/
 
