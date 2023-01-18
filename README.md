@@ -1,8 +1,5 @@
-# Applications
-- Todo app
-  link expired. I'll make it back soon.
-- Django app
-  https://sns.app-todo-jay.work/sns/
+# Portfolio
+[https://kentarojay.com](https://kentarojay.com/)
 
 # introduce
 - 👋 Hi, I’m @KentaroJayTakahashi.
