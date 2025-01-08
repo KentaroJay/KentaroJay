@@ -1,1 +1,1 @@
-Everything about me is [here](https://kentarojay.notion.site/Portfolio-Site-c065cafc0da1461cbf03717d6f78e3d8?pvs=74)
+Everything about me is [here](https://kentarojay.notion.site/portfolio?pvs=4)
